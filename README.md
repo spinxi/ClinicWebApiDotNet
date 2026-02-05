@@ -2,10 +2,6 @@
 > Made in 2 days
 > 
 > For Email confirmation, you can use <b>https://mailtrap.io</b>
->
-> Email: ernorevevoo@gmail.com
-> 
-> Password: RSGEtest
 
 Configure
 > <code>cd ClinicWebApi</code>
